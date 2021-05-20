@@ -1,3 +1,3 @@
 # ProjectPreview
 Hi,
-Wellcome to My project.
+Welcome to My project.
