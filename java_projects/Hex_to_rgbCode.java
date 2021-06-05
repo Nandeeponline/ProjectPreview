@@ -8,7 +8,7 @@ public class Hex_to_rgbCode {
 	{
 		// TODO Auto-generated method stub
 		BufferedReader ob = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("Enter the Hex Code (With or Without hash tag, as you wish) :");
+		System.out.println("Enter the Hex color Code (With or Without hash tag, as you wish) :");
 		String h=ob.readLine();
 		h=h.toUpperCase();
 		if(h.charAt(0)=='#')
